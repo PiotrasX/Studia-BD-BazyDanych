@@ -1,0 +1,38 @@
+!!!WAŻNE!!! Należy wykonać tylko MainSeeder.php aby baza danych poprawnie została zaimplementowana.
+
+
+
+Dane Logowania dla Pracownika:
+
+Konto 1:
+Login: konto5
+Hasło: haslo5
+
+Konto 2:
+Login: konto6
+Hasło: haslo6
+
+Konto 3:
+Login: konto12
+Hasło: haslo12
+
+Konto 4:
+Login: konto14
+Hasło: haslo14
+
+
+Dane Logowania dla Klienta:
+
+Konto 1:
+Login: konto1
+Hasło: haslo1
+
+Konto 2:
+Login: konto2
+Hasło: haslo2
+
+Konto 3:
+Login: konto3
+Hasło: haslo3
+
+I tak dalej do konta o ID 13 oprócz danych dla pracowników.
