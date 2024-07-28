@@ -1,0 +1,65 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.bg-color-gray {
+    background-color: rgb(200, 200, 200);
+}
+
+.img-max-size-48 {
+    max-width: 48px;
+    max-height: 48px;
+}
+
+.new-line {
+    display: block;
+    margin-bottom: 0.125em;
+}
+
+.custom-toggle,
+.custom-toggle.active {
+    background-color: rgba(225, 200, 75, 0.5);
+    border: 1px solid rgb(200, 200, 200);
+    color: rgb(0, 0, 0);
+}
+
+.custom-toggle:hover {
+    background-color: rgba(200, 150, 50, 0.7);
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.card-p-bg-blue {
+    color: rgb(50, 25, 125);
+    background-color: rgba(125, 200, 255, 0.3);
+    padding: 0.625em;
+    padding-top: 0.375em;
+}
+
+.card-p-bg-green {
+    color: rgb(25, 125, 25);
+    background-color: rgba(125, 255, 125, 0.3);
+    padding: 0.625em;
+    padding-top: 0.375em;
+}
+
+.card-p-bg-yellow {
+    color: rgb(125, 75, 25);
+    background-color: rgba(255, 225, 125, 0.3);
+    padding: 0.625em;
+    padding-top: 0.375em;
+}
+
+.bg-card-white {
+    background-color: rgba(225, 200, 225, 0.3);
+}
+
+.bg-card-aqua {
+    background-color: rgba(200, 225, 225, 0.3);
+}
