@@ -1,6 +1,6 @@
 # 📘 Studia – BD – Bazy Danych
 
-Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiot **Bazy Danych**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
+Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Bazy Danych**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
 &nbsp;  
 
@@ -8,7 +8,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiot **Bazy Da
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/Realizacja projektu` – Projekt końcowy przedmiotu obejmujący kompletny system bazy danych dla komisu samochodowego. Projekt zawiera: definicję tabel oraz relacji między nimi, klucze główne i obce, ograniczenia integralności, zapytania SQL (SELECT, INSERT, UPDATE, DELETE), widoki oraz operacje CRUD, integrację bazy danych z aplikacją internetową.  
+- `Zadania/Realizacja projektu` – Projekt końcowy przedmiotu obejmujący kompletny system bazy danych dla komisu samochodowego. W projekcie zawarte są: definicje tabel i relacji między nimi, klucze główne i obce, ograniczenia integralności, zapytania SQL (SELECT, INSERT, UPDATE, DELETE) oraz pełne operacje CRUD. Projekt obejmuje również implementację zapytań z użyciem JOIN oraz podstawową normalizację schematu bazy danych. Całość została zintegrowana z aplikacją internetową opartą na frameworku Laravel, wykorzystującą relacyjną bazę danych PostgreSQL.  
 
 ---
 
