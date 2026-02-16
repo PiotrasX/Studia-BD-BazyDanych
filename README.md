@@ -14,7 +14,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiot **Bazy Da
 
 ## ⚙️ Wykorzystane technologie
 
-- `Technologie:` HTML5, Bootstrap 5, PHP 8, Oracle Database.  
+- `Technologie:` HTML5, Bootstrap 5, PHP 8, PostgreSQL.  
 - `Frameworki:` Laravel 10.  
 - `Środowiska programistyczne (IDE):` Visual Studio Code.  
 
