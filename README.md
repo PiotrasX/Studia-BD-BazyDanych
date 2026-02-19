@@ -1,4 +1,4 @@
-# 📘 Studia  BD – Bazy Danych
+# 📘 Studia – BD – Bazy Danych
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Bazy Danych**, realizowanego na Uniwersytecie Rzeszowskim podczas czwartego (4) semestru studiów inżynierskich na kierunku Informatyka.  
 
